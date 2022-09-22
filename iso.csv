@@ -1,0 +1,96 @@
+iso_alpha,country,newid,mfx_male,mfx_female
+ALB,Albania,1,0,0
+DZA,Algeria,2,0,0
+AND,Andorra,3,0,0
+AZE,Azerbaij,4,0,0
+ARG,Argentin,5,0,0
+AUS,Australi,6,0,0
+BHR,Bahrain,7,0,0
+BGD,Banglade,8,0,0
+ARM,Armenia,9,0,0
+BIH,Bosnia,10,0,0
+BRA,Brazil,11,0,0
+BGR,Bulgaria,12,0,0
+BLR,Belarus,13,0,0
+CAN,Canada,14,0,0
+CHL,Chile,15,0,0
+CHN,China,16,0,0
+TWN,Taiwan,17,0,0
+COL,Colombia,18,0,0
+CYP,Cyprus,19,0,0
+CZE,Czech Re,20,0,0
+DMA,Dominica,21,0,0
+ECU,Ecuador,22,0,0
+SLV,El Salva,23,0,0
+ETH,Ethiopia,24,0,0
+EST,Estonia,25,0,0
+FIN,Finland,26,0,0
+GEO,Georgia,27,0,0
+PSE,Palestin,28,0,0
+DEU,Germany,29,0,0
+GHA,Ghana,30,0,0
+HKG,Hong Kon,31,0,0
+HUN,Hungary,32,0,0
+IND,India,33,0,0
+IDN,Indonesi,34,0,0
+IRN,Iran,35,0,0
+IRQ,Iraq,36,0,0
+ISR,Israel,37,0,0
+ITA,Italy,38,0,0
+JPN,Japan,39,0,0
+KAZ,Kazakhst,40,0,0
+JOR,Jordan,41,0,0
+KOR,South Korea,42,0,0
+KWT,Kuwait,43,0,0
+KGZ,Kyrgyzst,44,0,0
+LBN,Lebanon,45,0,0
+LVA,Latvia,46,0,0
+LBY,Libya,47,0,0
+LTU,Lithuani,48,0,0
+MYS,Malaysia,49,0,0
+MLI,Mali,50,0,0
+MEX,Mexico,51,0,0
+MDA,Moldova,52,0,0
+MNE,Monteneg,53,0,0
+MAR,Morocco,54,0,0
+NLD,Netherla,55,0,0
+NZL,New Zeal,56,0,0
+NGA,Nigeria,57,0,0
+NOR,Norway,58,0,0
+PAK,Pakistan,59,0,0
+PER,Peru,60,0,0
+PHL,Philippi,61,0,0
+POL,Poland,62,0,0
+PRI,Puerto R,63,0,0
+QAT,Qatar,64,0,0
+ROU,Romania,65,0,0
+RUS,Russia,66,0,0
+RWA,Rwanda,67,0,0
+SAU,Saudi Ar,68,0,0
+SRB,Serbia,69,0,0
+SGP,Singapor,70,0,0
+SVK,Slovakia,71,0,0
+VNM,Viet Nam,72,0,0
+SVN,Slovenia,73,0,0
+ZAF,South Af,74,0,0
+ZWE,Zimbabwe,75,0,0
+ESP,Spain,76,0,0
+SWE,Sweden,77,0,0
+CHE,Switzerl,78,0,0
+THA,Thailand,79,0,0
+TTO,Trinidad,80,0,0
+TUN,Tunisia,81,0,0
+TUR,Turkey,82,0,0
+UKR,Ukraine,83,0,0
+MKD,Macedoni,84,0,0
+EGY,Egypt,85,0,0
+GBR,Great Br,86,0,0
+TZA,Tanzania,87,0,0
+USA,United S,88,0,0
+BFA,Burkina,89,0,0
+URY,Uruguay,90,0,0
+UZB,Uzbekist,91,0,0
+VEN,Venezuel,92,0,0
+YEM,Yemen,93,0,0
+SRB,Serbia,94,0,0
+ZMB,Zambia,95,0,0
